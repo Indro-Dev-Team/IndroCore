@@ -1,0 +1,4 @@
+main: io.github.indroDevTeam.indroCore.IndroCore
+name: IndroCore
+version: 1.0.0-alpha
+api-version: 1.17.1

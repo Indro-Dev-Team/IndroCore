@@ -1,6 +1,5 @@
 package io.github.indroDevTeam.indroCore.utils;
 
-import io.github.indroDevTeam.indroCore.IndroCore;
 import org.bukkit.plugin.Plugin;
 
 import java.io.File;
